@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=okusjid&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Badge" />
+  <img src="https://komarev.com/ghpvc/?username=usjid-nisar&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views Badge" />
 </p>
 
 - 🌱 I’m currently learning **React, Django and Postgres**
